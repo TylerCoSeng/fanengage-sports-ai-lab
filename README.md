@@ -9,7 +9,7 @@ This repo contains my prototype for **FanEngage**, an AI agent that generates pe
 - `FanEngage_Technology_Statement.pdf`  
   - Written statement on technology (architecture, prompt design, scenarios, limitations).
 - `FanEngage_Problem_Solution.pdf`  
-  - Problem and solution statement with link to this working prototype.
+  - Problem and solution statement with link to the working prototype.
 
 # How to Run the Notebook
 
