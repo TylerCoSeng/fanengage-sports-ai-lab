@@ -1,6 +1,6 @@
 # FanEngage – Adaptive AI for Sports Fan Engagement
 
-This repository contains the prototype for **FanEngage**, an AI agent that generates personalized, spoiler-aware messages for basketball fans using IBM watsonx.ai and the Granite 3-8B Instruct model.
+This repo contains my prototype for **FanEngage**, an AI agent that generates personalized, spoiler-aware messages for basketball fans using IBM watsonx.ai and the Granite 3-8B Instruct model.
 
 ## Contents
 
@@ -20,5 +20,5 @@ This repository contains the prototype for **FanEngage**, an AI agent that gener
 
 ## Credits
 
-- Project completed for the IBM SkillsBuild AI Experiential Learning Lab (Sports Industry – Challenge 1).
+- Built as part of the IBM SkillsBuild AI Experiential Learning Lab (Sports Industry – Challenge 1).
 - Implemented by Tyler Co Seng (SJSU Dream Team).
